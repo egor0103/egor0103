@@ -1,3 +1,6 @@
+from abc import abstractmethod
+
+
 print('Hello, World!')
 print('aaaaa')
 
@@ -10,3 +13,5 @@ def q():
     return 1
 
 q()
+
+q = abstractmethod
