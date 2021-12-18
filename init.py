@@ -9,14 +9,4 @@ print(a)
 
 q = 1
 
-sjgle = 1
-
-
-asdasd = 1
-
-
-
-asdasd = 1
-
-
-asz = 'asd'
+a = 1
