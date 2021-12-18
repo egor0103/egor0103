@@ -9,9 +9,4 @@ print(a)
 
 q = 1
 
-def q():
-    return 1
-
-q()
-
-q = abstractmethod
+sjgle = 1
