@@ -10,9 +10,13 @@ print(a)
 q = 1
 
 sjgle = 1
-<<<<<<< HEAD
 
 
 asdasd = 1
-=======
->>>>>>> fix
+
+
+
+asdasd = 1
+
+
+asz = 'asd'
